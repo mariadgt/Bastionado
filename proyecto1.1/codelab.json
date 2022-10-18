@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-10-14T12:17:17+02:00",
+  "id": "proyecto1.1_bastionado_arranque",
+  "duration": 0,
+  "title": "Bastionado del arranque del sistema",
+  "summary": "Proyecto Bastionado del arranque del sistema.",
+  "source": "proyecto1.1_bastionado_mariadolores.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "seguridad",
+    "bios"
+  ],
+  "tags": [
+    "web"
+  ],
+  "ga": "ID de Google Analytics",
+  "url": "proyecto1.1_bastionado_arranque"
+}
